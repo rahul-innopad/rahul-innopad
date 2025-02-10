@@ -9,6 +9,8 @@
 
 </details>
 
+<img src="http://localhost:3001/api/profile/badge" alt="Profile Views">
+
 # GitHub Profile Visit Tracker API
 
 ## Base URL
