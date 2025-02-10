@@ -1,4 +1,5 @@
 ![Profile Views](http://localhost:3001/api/profile/visits)
+![Profile Views](https://localhost:3001/api/profile/badge)
 # GitHub Profile Visit Tracker API
 
 ## Base URL
