@@ -1,15 +1,12 @@
 # Hi there 👋
-
+## Profile Views
 ![Profile Views](http://localhost:3001/api/profile/badge)
-
 <details>
 <summary>📊 Profile Visit Analytics</summary>
 
 [![Analytics](http://localhost:3001/api/profile/badge)](https://localhost:3001/api/profile/analytics)
 
 </details>
-
-<img src="http://localhost:3001/api/profile/badge" alt="Profile Views">
 
 # GitHub Profile Visit Tracker API
 
