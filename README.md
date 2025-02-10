@@ -70,7 +70,7 @@ Returns detailed analytics about profile visits.
 
 2. Add this to your GitHub profile README.md:
    ```markdown
-   ![Profile Views](https://your-api-domain.com/api/profile/badge)
+   ![Profile Views](http://localhost:3001/api/profile/visits)
    
    <!-- Optional: Add detailed analytics -->
    <details>
