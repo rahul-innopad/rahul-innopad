@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Profile Views
-![](http://localhost:3001/api/profile/badge)
+![](http://localhost:5153/api/profile/track)
 <details>
 <summary>📊 Profile Visit Analytics</summary>
 
