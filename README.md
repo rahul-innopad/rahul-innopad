@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Profile Views
-![](http://localhost:4432/api/profile/badge)
+![](https://staging-api.fieldworkertracking.com/api/profile/badge)
 <details>
 <summary>📊 Profile Visit Analytics</summary>
 
