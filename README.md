@@ -1,17 +1,17 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Saddam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Rahul!;" />
 </h1>
 
 
-<h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
+<h3 align="center"><i>Passionate</i> <b>Junior .Net Full Stack</b></b>
 </h3>
 
 ---
 ###
 <p align="center">
   <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=light&perline=10,angular,github,gitlab,html,css,js,ts,react,bootstrap,nodejs,mssql" />
   </a>
 </br>
   <a href="https://skst.in">
