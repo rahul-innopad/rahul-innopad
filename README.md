@@ -11,8 +11,9 @@
 ###
 <p align="center">
   <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=dotnet&theme=light&perline=10,angular,github,gitlab,html,css,js,ts,react,bootstrap,nodejs,mssql" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,github,gitlab,html,css,js,ts,react,bootstrap,nodejs,mssql&theme=light&perline=10" />
+</a>
+
 </br>
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres,wordpress,tailwind &theme=light&perline=8" />
