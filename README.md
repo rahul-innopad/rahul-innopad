@@ -1,6 +1,6 @@
-# 👨‍💻 Full Stack Developer | 3+ Years of Experience
+# 👨‍💻 Rahul Yadav | Full Stack Developer
 
-Hi there! I'm a passionate Full Stack Developer with 3+ years of experience building modern, scalable web applications from frontend to backend. I specialize in end-to-end software development, cloud deployment, and efficient system architecture.
+Hi there! I'm **Rahul Yadav**, a passionate Full Stack Developer with 3+ years of experience crafting robust, scalable, and modern web applications. I specialize in both frontend and backend development, cloud deployments, microservices, and more.
 
 ---
 
@@ -39,16 +39,9 @@ Hi there! I'm a passionate Full Stack Developer with 3+ years of experience buil
 
 ---
 
-## 🌐 Live Projects
-
-- 🔗 [CraneOps QA Platform](http://qa.craneops.net/)
-- 🔗 [My American Flag](https://myamericanflag.us/)
-
----
-
 ## 📫 Let’s Connect
 
-Feel free to reach out and connect — I’m always open to new opportunities and collaborations!
+I’m always open to new opportunities, collaborations, and learning from fellow devs!
 
 - 📧 Email: `your.email@example.com`
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
@@ -58,7 +51,6 @@ Feel free to reach out and connect — I’m always open to new opportunities an
 
 ## 📜 License
 
-Feel free to use this template for inspiration or as a base for your own README.
+Feel free to use this template or reference it for your own GitHub profile.
 
-Made with ❤️ by **Your Name**
-
+Made with ❤️ by **Rahul Yadav**
