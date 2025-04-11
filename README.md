@@ -28,6 +28,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=ajax&logoColor=white)
+![RxJs](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![RTK](https://img.shields.io/badge/Redux%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 🛠 Backend
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
