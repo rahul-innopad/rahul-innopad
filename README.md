@@ -52,12 +52,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulyadav-dev&show_icons=true&theme=radical" width="49.5%"/>
-  <img src="https://streak-stats.demolab.com/?user=rahulyadav-dev&theme=radical" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-innopad&show_icons=true&theme=radical" width="49.5%"/>
+  <img src="https://streak-stats.demolab.com/?user=rahul-innopad&theme=radical" width="49.5%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyadav-dev&layout=compact&theme=radical" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-innopad&layout=compact&theme=radical" width="49.5%"/>
 </p>
 
 ---
