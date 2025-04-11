@@ -83,13 +83,13 @@
 </p>
 
 ---
-## 📫 Connect With Me
-- 💻 [**GitHub**](https://github.com/rahul-innopad) 
----
 ## 📈 GitHub Contribution Graph
  <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-innopad&theme=react-dark&area=true&hide_border=true" /> </p>
 ---
 
+## 📫 Connect With Me
+- 💻 [**GitHub**](https://github.com/rahul-innopad) 
+---
 
 <p align="center">
   🚀 "Code is like humor. When you have to explain it, it’s bad." — Cory House
