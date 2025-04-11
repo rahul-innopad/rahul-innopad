@@ -63,10 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-innopad&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-innopad&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 📈 GitHub Stats
