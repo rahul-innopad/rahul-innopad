@@ -70,12 +70,21 @@
 </p>
 
 ---
+## 📊 Tools & Frameworks Radar
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-innopad&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-innopad&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahul-innopad&theme=radical&utcOffset=8" />
+</p>
+
+---
 ## 📫 Connect With Me
-
-- 📧 **Email:** your.email@example.com  
-- 🔗 [**LinkedIn**](https://linkedin.com/in/yourprofile)  
-- 💻 [**GitHub**](https://github.com/rahulyadav-dev)  
+ 
+- 💻 [**GitHub**](https://github.com/rahul-innopad)  
 
 ---
 
