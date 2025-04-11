@@ -7,14 +7,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working as a **Full Stack Developer**
-- 🧠 I have **3+ years of professional experience**
-- 🌱 I’m learning more about **DevOps | Microservices | Scalable Systems**
-
----
-
 ## 🚀 Tech Stack & Tools
 
 ### 💻 Frontend
