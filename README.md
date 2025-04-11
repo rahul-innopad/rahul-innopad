@@ -89,7 +89,7 @@
 - 💻 [**GitHub**](https://github.com/rahul-innopad) 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulyadav-dev/rahulyadav-dev/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/rahul-innopad/rahul-innopad/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <p align="center">
