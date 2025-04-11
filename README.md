@@ -60,7 +60,7 @@
 ---
 
 ## 🏅 GitHub Achievements
-<p align="center"> <img src="https://github-profile-achievements.vercel.app/api/achievements?username=rahulinnopad&theme=darkhub&margin-w=8&margin-h=8" /> </p>
+<p align="center"> <img src="https://github-profile-achievements.vercel.app/api/achievements?username=rahul-innopad&theme=darkhub&margin-w=8&margin-h=8" /> </p>
 
 ---
 ## 📈 GitHub Stats
