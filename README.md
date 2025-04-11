@@ -88,9 +88,7 @@
 ## 📫 Connect With Me
 - 💻 [**GitHub**](https://github.com/rahul-innopad) 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-innopad/rahul-innopad/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 <p align="center">
   🚀 "Code is like humor. When you have to explain it, it’s bad." — Cory House
