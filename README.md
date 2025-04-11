@@ -49,6 +49,26 @@
 ![Project Management](https://img.shields.io/badge/-Project_Management_Tools-FF4500?style=flat&logo=trello&logoColor=white)
 ---
 
+## 🏆 GitHub Trophies & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul-innopad&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-innopad&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-innopad&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-innopad&layout=compact&theme=radical" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
