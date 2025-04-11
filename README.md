@@ -47,13 +47,6 @@
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0?style=flat&logo=github-actions&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Project Management](https://img.shields.io/badge/-Project_Management_Tools-FF4500?style=flat&logo=trello&logoColor=white)
----
-
-## 🧠 Knowledge Graph
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/130266145/233797325-graph-example.png" alt="Knowledge Graph" />
-</p>
 
 ---
 
