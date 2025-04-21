@@ -9,6 +9,22 @@
 
 ## 🚀 Tech Stack & Tools
 
+<p align="center">
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
+  </a>
+</br>
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres,wordpress,tailwind &theme=light&perline=8" />
+  </a>
+  </br>
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=ps,pr,ai,au,ae,notion" />
+  </a>
+
+
+</p>
+
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
