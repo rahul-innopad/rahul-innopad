@@ -8,11 +8,11 @@
 ---
 <p align="center">
   <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=dotnet,git,html,css,js,ts,react,angular,nextjs,jquery&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=dotnet,html,css,js,ts,react,angular,nextjs,jquery&theme=light&perline="9" />
   </a>
   </br>
   <a href="https://skst.in">
-      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,scss,nodejs,github,mysql&theme=light&perline=8" />
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,scss,nodejs,github,git,mysql&theme=light&perline=8" />
     </a>
     </br>
   </br>
