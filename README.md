@@ -19,6 +19,9 @@
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=docker,azure,figma,vscode,idea&theme=light&perline=8" />
   </a>
+   <!-- Manually added C# and MSSQL icons styled to match skillicons.dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="MSSQL" style="margin: 5px;" />
 </p>
 
 ---
