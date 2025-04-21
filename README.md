@@ -6,17 +6,19 @@
 </p>
 
 ---
-
-## 🚀 Tech Stack & Tools
-
 <p align="center">
   <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=github,git,html,css,js,ts,react,angular,nextjs,jquery&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=dotnet,git,html,css,js,ts,react,angular,nextjs,jquery&theme=light&perline=10" />
   </a>
   </br>
-  <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,scss,nodejs,dotnet,csharp,mysql,mssql&theme=light&perline=8" />
-  </a>
+  <p align="center">
+    <a href="https://skst.in">
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,scss,nodejs,github,mysql&theme=light&perline=8" />
+    </a>
+    </br>
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  </p>
   </br>
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=docker,azure,figma,vscode,idea&theme=light&perline=8" />
