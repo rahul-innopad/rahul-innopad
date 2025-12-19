@@ -95,14 +95,6 @@ To work in a challenging environment where I can utilize my technical skills, po
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul-innopad&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
