@@ -2,27 +2,27 @@
 <h3 align="center">🚀 Full Stack Developer | .NET Enthusiast | DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DotNet+%7C+React+%7C+Angular+%7C+MSSQL;3.6%2B+Years+Professional+Experience;Positive+Thinker+%7C+Target+Achiever;Let%27s+build+scalable+apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DotNet+%7C+React+%7C+Angular+%7C+MSSQL;3.6%2B+Years+Professional+Experience;Positive+Thinker+%7C+Target+Achiever;Open+for+New+Opportunities!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Profile Summary
 
-Results-driven **Full Stack Developer with 3.6+ years of professional experience** in designing, developing, and deploying scalable web applications. Strong expertise in **.NET, C#, MSSQL, React, and Angular**, with hands-on experience in **Clean Architecture, REST APIs, and cloud-based solutions**.
+Results-driven **Full Stack Developer with 3.6+ years of professional experience** in building scalable, secure, and high-performance web applications. Strong expertise in **.NET, C#, MSSQL, React, and Angular**, with hands-on experience in **Clean Architecture, REST APIs, and cloud-based deployments**.
 
-A **positive thinker and target achiever**, known for meeting deadlines, solving complex problems efficiently, and delivering high-quality solutions. Passionate about continuous learning, performance optimization, and building secure, maintainable systems.
+A **positive thinker and target achiever** who takes ownership of tasks, consistently meets deadlines, and delivers business-focused solutions. Passionate about continuous improvement and writing clean, maintainable code.
 
 ---
 
 ## 💡 Key Strengths
 
-- ✅ Positive mindset with strong problem-solving skills  
-- 🎯 Target-oriented and deadline-focused  
-- 🤝 Team player with excellent communication  
-- 🧠 Quick learner & adaptable to new technologies  
-- 🔍 Detail-oriented with clean coding practices  
-- 🚀 Ownership mindset with result-driven execution  
+- ✅ Positive mindset with strong problem-solving abilities  
+- 🎯 Target-oriented with on-time delivery  
+- 🤝 Strong team collaboration & communication  
+- 🧠 Fast learner & adaptable to change  
+- 🔍 Detail-focused with clean coding practices  
+- 🚀 Ownership-driven execution  
 
 ---
 
@@ -31,15 +31,25 @@ A **positive thinker and target achiever**, known for meeting deadlines, solving
 **Full Stack Developer**  
 🕒 **3.6+ Years of Experience**
 
-- Developed and maintained **enterprise-level web applications** using **.NET, C#, MSSQL, React, and Angular**
-- Designed and implemented **secure RESTful APIs** with JWT-based authentication
-- Applied **Clean Architecture, Repository & Unit of Work patterns**
-- Optimized database queries and improved application performance
-- Worked on complex business logic including **subscriptions, invoicing, and payment flows**
+- Designed, developed, and maintained **enterprise-grade applications**
+- Built **secure REST APIs** using **ASP.NET Core** with JWT authentication
+- Implemented **Clean Architecture, Repository & Unit of Work patterns**
+- Optimized SQL queries, stored procedures, and database performance
+- Worked on **subscription management, invoicing, billing, and payments**
 - Integrated third-party APIs and services
-- Collaborated with QA, UI/UX, and DevOps teams
-- Hands-on experience with **Docker, Azure, GitHub CI/CD**
-- Actively involved in code reviews and technical discussions
+- Collaborated with UI/UX, QA, and DevOps teams
+- Used **Docker, Azure, GitHub CI/CD** for deployments
+- Conducted code reviews and followed best practices
+
+---
+
+## ⭐ Key Achievements
+
+- 🚀 Successfully delivered multiple production-ready applications
+- 📉 Improved API and database performance through optimization
+- 🔐 Implemented secure authentication and authorization systems
+- 🧩 Handled complex business logic independently
+- 🏆 Recognized for reliability and ownership in projects
 
 ---
 
@@ -74,9 +84,28 @@ A **positive thinker and target achiever**, known for meeting deadlines, solving
 
 ---
 
+## 📚 Learning & Certifications
+
+- 📘 Advanced .NET & Clean Architecture (Ongoing)
+- ☁ Azure Fundamentals (Learning)
+- 🐳 Docker & Containerization (Hands-on)
+- 📐 System Design Basics
+
+---
+
+## 🧠 Work Ethics & Values
+
+- Ownership & accountability
+- Quality over quantity
+- Continuous learning mindset
+- Transparency & teamwork
+- Business-first thinking
+
+---
+
 ## 🎯 Career Objective
 
-To work in a challenging environment where I can utilize my technical skills, positive attitude, and problem-solving abilities to contribute to organizational success while continuously enhancing my professional growth.
+To contribute as a **Full Stack / .NET Developer** in a growth-oriented organization where I can apply my technical expertise, positive attitude, and problem-solving skills to deliver impactful solutions.
 
 ---
 
@@ -104,7 +133,7 @@ To work in a challenging environment where I can utilize my technical skills, po
 
 ---
 
-## 📊 Contribution & Activity
+## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-innopad&theme=react-dark&area=true&hide_border=true" />
@@ -112,11 +141,29 @@ To work in a challenging environment where I can utilize my technical skills, po
 
 ---
 
+## 💼 Availability
+
+- 📍 Location: India  
+- ⏳ Notice Period: Negotiable  
+- 💼 Open to Full Stack / .NET roles  
+
+---
+
+## 🤔 Why Hire Me?
+
+- ✔ Proven experience in real-world production systems  
+- ✔ Positive thinker with target-driven mindset  
+- ✔ Strong backend + frontend combination  
+- ✔ Ownership mentality & reliability  
+- ✔ Always focused on delivering value  
+
+---
+
 ## 📫 Connect With Me
 
 - 💻 GitHub: https://github.com/rahul-innopad  
 
-📄 **Open to Full Stack / .NET Developer opportunities**
+📄 **Resume-ready GitHub profile – feel free to share with HR**
 
 ---
 
