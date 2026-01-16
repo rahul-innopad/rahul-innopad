@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | .NET Enthusiast | DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DotNet+%7C+React+%7C+Angular+%7C+MSSQL;3.6%2B+Years+Professional+Experience;Positive+Thinker+%7C+Target+Achiever;Open+for+New+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DotNet+%7C+React+%7C+Angular+%7C+MSSQL;3.6%2B+Years+Professional+Experience;Positive+Thinker+%7C+Target+Achiever" alt="Typing SVG" />
 </p>
 
 ---
